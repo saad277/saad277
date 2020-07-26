@@ -1,6 +1,6 @@
 # Welcome To My Profile! 
 
-4th Year Software Engineering student currently persuing interest in JavaScript frameworks with hands on work on python and cloud computing technologies. Aiming to learn new skills with each passing. Feel free to recommend new stuff :smiley:
+4th Year Software Engineering student currently persuing interest in JavaScript frameworks with hands on work on python and cloud computing technologies. Aiming to learn new skills with each passing. Feel free to recommend new stuff :smiley: <br />
 I also have keen interest in animes :grinning: and playing football :soccer: besides studies 
 
  
