@@ -1,6 +1,7 @@
 # Welcome To My Profile! 
 
-Wakanda Forever 
+4th Year Software Engineering student currently persuing interest in JavaScript frameworks with hands on work on python and cloud computing technologies. Aiming to learn new skills with each passing. Feel free to recommend new stuff :smiley:
+I also have keen interest in animes :grinning: and playing football :soccer: besides studies 
 
  
 - 👨🏻‍💻 &nbsp; Works at **Home** for now . 
