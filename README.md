@@ -1,6 +1,6 @@
 # Welcome To My Profile! 
 
-Wakanda Forever!
+Wakanda Forever 
 
  
 - 👨🏻‍💻 &nbsp; Works at **Home** for now . 
